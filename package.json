@@ -1,0 +1,35 @@
+{
+  "name": "postcss-direct-reset",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to easy and fast reset elements with reset.css",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jest-cli/bin/jest.js"
+  },
+  "pre-commit": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamartire/postcss-direct-reset.git"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "reset.css"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamartire/postcss-direct-reset/issues"
+  },
+  "homepage": "https://github.com/lamartire/postcss-direct-reset#readme",
+  "dependencies": {
+    "postcss": "^6.0.9",
+    "reset-css": "^2.2.1"
+  },
+  "devDependencies": {
+    "jest-cli": "^20.0.4",
+    "pre-commit": "^1.2.2"
+  }
+}

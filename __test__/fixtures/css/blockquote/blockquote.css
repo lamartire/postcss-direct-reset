@@ -1,0 +1,9 @@
+.block {
+  display: block;
+  padding: 16px;
+  font-size: 16px;
+}
+
+.block__element {
+  @reset('blockquote');
+}
