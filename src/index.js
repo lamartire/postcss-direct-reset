@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 const postcss = require('postcss')
 const Rule = require('postcss/lib/rule')

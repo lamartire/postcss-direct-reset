@@ -1,5 +1,5 @@
 # PostCSS Direct Reset [![Build Status](https://travis-ci.org/lamartire/postcss-direct-reset.svg?branch=master)](https://travis-ci.org/lamartire/postcss-direct-reset)
------------------------
+
 [PostCSS](https://github.com/postcss/postcss) plugin to easy and fast reset
 elements with [reset.css](https://www.npmjs.com/package/reset-css).
 

@@ -1,9 +1,9 @@
-'use strict';
+'use strict'
 
 const postcss = require('postcss')
-const directResetPlugin = require('./../src')
 const fs = require('fs')
 const path = require('path')
+const directResetPlugin = require('./../src')
 
 const cssFixturesPath = path.resolve(__dirname, './fixtures/css')
 
