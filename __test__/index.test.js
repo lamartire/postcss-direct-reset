@@ -1,3 +1,5 @@
+'use strict';
+
 const postcss = require('postcss')
 const directResetPlugin = require('./../src')
 const fs = require('fs')
