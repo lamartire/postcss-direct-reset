@@ -50,4 +50,4 @@ Will be processed to:
 
 ### Roadmap
 
-[ ] - insert pseudo-elements if that needs
+- [ ] - insert pseudo-elements if that needs
