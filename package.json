@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/lamartire/postcss-direct-reset#readme",
   "dependencies": {
-    "postcss": "^6.0.9",
-    "reset-css": "^2.2.1"
+    "postcss": "^7.0.16",
+    "reset-css": "^4.0.1"
   },
   "devDependencies": {
-    "jest-cli": "^20.0.4",
+    "jest-cli": "^24.8.0",
     "pre-commit": "^1.2.2"
   }
 }
